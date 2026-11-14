@@ -1,5 +1,5 @@
 {
-  "snapshot_date": "2010-12-10",
+  "snapshot_date": "2011-12-10",
   "features": [
     "Recency",
     "Frequency",
@@ -7,6 +7,5 @@
   ],
   "n_clusters": 4,
   "random_state": 42,
-  "cleaning_and_rfm_code": "rfm_utils.py",
-  "sklearn_version": "1.9.1"
+  "cleaning_and_rfm_code": "rfm_utils.py"
 }
